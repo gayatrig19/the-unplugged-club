@@ -30,7 +30,7 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 250%;
+    font-size: 260%;
     margin-left: 25px;
     text-decoration-line: underline;
     letter-spacing: 1.5px;
@@ -113,6 +113,26 @@ h2 {
 
 /* About us */
 
+.about-section {
+    padding: 50px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    color: #3a3a3a;
+}
+
+.about-section h2 {
+    color: #191a1a;
+    font-size: 25px;
+}
+
+.about-section p {
+    font-size: 18px;
+}
+
+/* why Unplug */
+
 .heading {
     width: 90%;
     display: flex;
@@ -121,14 +141,16 @@ h2 {
     flex-direction: column;
     text-align: center;
     margin: 20px auto;
+    background-color: whitesmoke;
 }
 
 .heading h2 {
     font-family: Oswald, sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     color: #191a1a;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     position: relative;
+
 }
 
 .heading h2::after {
@@ -138,7 +160,7 @@ h2 {
     height: 4px;
     display: block;
     margin: 0 auto;
-    background-color: #4caf50;
+    /* background-color: #4caf50; */
 }
 
 .heading p {
@@ -149,7 +171,7 @@ h2 {
 }
 
 .container {
-    background-color: lightgoldenrodyellow;
+    /* background-color: lightgoldenrodyellow; */
     width: 90%;
     margin: 0 auto;
     padding: 10px 20px;
@@ -238,11 +260,9 @@ footer {
     color: #3a3a3a;
 }
 
-/* Unplug Guide Image */
-
-
-
 /* Guide to unplug */
+
+
 
 /* Media queries */
 /* Media queries for About Us Section */
@@ -253,15 +273,16 @@ footer {
     }
 
     .heading h2 {
-        font-size: 36px;
+        font-size: 25px;
     }
+
 
     .heading p {
         display: flex;
         justify-content: space-between;
         align-items: center;
         /* align-self: center; */
-        font-size: 17px;
+        font-size: 18px;
         margin-bottom: 0px;
     }
 
@@ -281,11 +302,11 @@ footer {
 
     .about-content p {
         padding: 0px;
-        font-size: 16px;
+        font-size: 18px;
     }
 
     .about-content .learn-more {
-        font-size: 16px;
+        font-size: 18px;
     }
 }
 
