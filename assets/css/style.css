@@ -14,6 +14,7 @@ body {
     font-weight: 400;
     color: #3a3a3a;
     background-color: white;
+
 }
 
 /* headings and logo */
@@ -144,7 +145,7 @@ h2 {
 
 #benefits div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.3);
     width: 20%;
     height: 160px;
     float: left;
@@ -287,6 +288,7 @@ card img {
 /* Media queries for larger to medium screens size from 1200px and down */
 
 @media screen and (max-width: 1200px) {
+
     #benefits>div {
         width: 100%;
         clear: both;
