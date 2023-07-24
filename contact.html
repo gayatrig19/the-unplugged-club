@@ -36,16 +36,38 @@
         </nav>
     </header>
 
-    <section class="form-section">
+    <!-- Contact Form -->
+
+    <section class="contact-section">
         <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
-            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
-            <label for="fname">First Name</label>
-            <input id="fname" class="text-input" type="text" name="first_name" required />
-            <label for="lname">Last Name</label>
-            <input id="lname" class="text-input" type="text" name="last_name" required />
-            <label for="email">Email Address</label>
-            <input id="email" class="text-input" type="email" name="email_address" required />
-            <input class="join-button" type="submit" value="Let's Run!" />
+            <fieldset>
+                <legend>
+                    <h2>Join Us</h2>
+                </legend>
+                <h2>Let's get Unplugged Together!!!<i class="fas fa-heartbeat"></i> </h2>
+                <br>
+                <label for="fname">First Name:</label>
+                <br>
+                <input id="fname" class="text-input" type="text" name="first_name" placeholder="First Name" required />
+                <br>
+                <label for="lname">Last Name:</label>
+                <br>
+                <input id="lname" class="text-input" type="text" name="last_name" placeholder="Last Name" required />
+                <br>
+                <label for="email">Email Address:</label>
+                <br>
+                <input id="email" class="text-input" type="email" name="email_address" placeholder="Email Address"
+                    required />
+                <br>
+                <label for="message">Message:</label>
+                <textarea name="textarea" id="message" placeholder="Type your message here...." class="text-input"
+                    rows="10" cols="10" required>
+                </textarea>
+
+                <input class="submit-button" type="submit" name="submit" value="Submit">
+
+                <input type="reset" class="submit-button" value="Reset Form">
+            </fieldset>
         </form>
     </section>
 
