@@ -445,6 +445,7 @@ footer {
     text-align: center;
     font-size: 100%;
     background-color: #f16c6b;
+    border: 1px solid black;
     color: black;
     display: inline-block;
 }
