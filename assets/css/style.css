@@ -7,13 +7,18 @@
     box-sizing: border-box;
 }
 
-/* Base Styles */
+html {
+    height: 100%;
+}
 
 body {
     font-family: Lato, sans-serif;
     font-weight: 400;
     color: #3a3a3a;
     background-color: white;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 /* headings and logo */
@@ -287,9 +292,11 @@ h2 {
 /* footer */
 
 footer {
-    /* background-color: #9cb884; */
+    background-color: #9cb884;
     height: 130px;
+    margin-top: auto;
 }
+
 
 .social-networks {
     text-align: center;
@@ -302,11 +309,12 @@ footer {
 .social-networks i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 3%;
     color: black;
 }
 
 /* Unplug Guide  */
+
 .guide-image {
     width: 100%;
     height: 600px;
