@@ -308,7 +308,7 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 200%;
     margin: 1%;
     padding: 3%;
     color: black;
@@ -447,6 +447,7 @@ footer {
 .submit-button {
     font-size: 18px;
     margin-top: 20px;
+    font-weight: 500;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
@@ -466,10 +467,10 @@ footer {
 
 /* For small screens from 375px and down */
 
-@media screen and (max-width: 375px) and (min-width:320px) {
+@media screen and (max-width: 425px) and (min-width:320px) {
 
     #logo {
-        font-size: 150%;
+        font-size: 160%;
     }
 
     #logo,
@@ -484,7 +485,6 @@ footer {
     }
 
     .welcome-section p {
-
         text-align: left;
         font-size: 17px;
     }
@@ -493,8 +493,11 @@ footer {
         font-size: 18px;
     }
 
-}
+    .social-networks {
+        margin-top: 4%;
+    }
 
+}
 
 /* For Tablets, Ipads and mobile devices from 768px and down */
 
@@ -546,6 +549,7 @@ footer {
         text-align: center;
         justify-content: center;
     }
+
 }
 
 /*  For medium screen-sizes from 950px wide and down */
