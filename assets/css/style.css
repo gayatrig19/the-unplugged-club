@@ -16,7 +16,7 @@ body {
     font-weight: 450;
     color: #3a3a3a;
     background-color: white;
-    min-height: 100vh;
+    min-height: 100%;
     display: flex;
     flex-direction: column;
 }
@@ -469,6 +469,45 @@ footer {
 .submit-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+/* 404 Page Not Found Error Message */
+
+.error-msg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    padding: 20px 50px;
+    width: 65%;
+    text-align: center;
+}
+
+.error-msg h1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.error-msg p {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+.error-msg a {
+    text-decoration: none;
+    background-color: darkblue;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.error {
+    position: absolute;
+    z-index: -1;
+    font-size: 300px;
+    color: #cdcdcd;
 }
 
 /* Media queries */
