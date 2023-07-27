@@ -294,8 +294,8 @@ div i {
 /* footer */
 
 footer {
-    background-color: #9cb884;
-    height: 130px;
+    /* background-color: #9cb884; */
+    height: 150px;
     margin-top: auto;
 }
 
@@ -310,7 +310,7 @@ footer {
 .social-networks i {
     font-size: 200%;
     margin: 1%;
-    padding: 3%;
+    padding: 5%;
     color: black;
 }
 
