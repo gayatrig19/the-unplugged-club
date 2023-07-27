@@ -16,7 +16,7 @@ body {
     font-weight: 450;
     color: #3a3a3a;
     background-color: white;
-    min-height: 100%;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
@@ -297,6 +297,7 @@ footer {
     background-color: #9cb884;
     height: 140px;
     margin-top: auto;
+    border-top: 2px inset rgb(166, 159, 159);
 }
 
 .social-networks {
@@ -356,8 +357,8 @@ footer {
 .cen1 {
     letter-spacing: 1.5px;
     font-family: Oswald, sans-serif;
-    color: white;
-    /* color: lightgoldenrodyellow; */
+    font-weight: 700;
+    color: lightgoldenrodyellow;
     margin: 20px;
     display: block;
     font-size: 25px;
