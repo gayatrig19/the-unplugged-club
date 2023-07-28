@@ -295,7 +295,7 @@ div i {
 
 footer {
     background-color: #9cb884;
-    height: 140px;
+    height: auto;
     margin-top: auto;
     border-top: 2px inset rgb(166, 159, 159);
 }
