@@ -462,41 +462,31 @@ footer {
 }
 
 /* 404 Page Not Found Error Message */
-.error-msg {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* background-color: red; */
-    padding: 20px 50px;
-    width: 65%;
+.error-container {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 15%;
+}
+
+.error-container h1 {
+    font-size: 80px;
+    font-weight: 800;
     text-align: center;
+    font-family: Oswald, sans-serif;
 }
 
-.error-msg h1 {
-    font-size: 30px;
-    font-weight: 700;
+.error-container h2 {
+    font-size: 25px;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    margin-top: -40px;
 }
 
-.error-msg p {
-    margin: 20px 0;
+.error-container p {
+    text-align: center;
+    font-family: Lato, sans-serif;
     font-size: 20px;
-}
-
-.error-msg a {
-    text-decoration: none;
-    background-color: darkblue;
-    padding: 15px 30px;
-    border-radius: 50px;
-    color: #fff;
-    font-size: 20px;
-    margin: 20px 0;
-}
-
-.error {
-    position: absolute;
-    z-index: -1;
-    font-size: 300px;
-    color: #cdcdcd;
+    font-weight: 500;
 }
 
 /* Media queries */
