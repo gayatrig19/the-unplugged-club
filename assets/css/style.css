@@ -22,7 +22,6 @@ body {
 }
 
 /* headings and logo */
-
 h1,
 h2 {
     font-family: Oswald, sans-serif;
@@ -41,7 +40,6 @@ h2 {
 }
 
 /* navigation links */
-
 #menu {
     font-size: 115%;
     letter-spacing: 1.5px;
@@ -72,12 +70,11 @@ h2 {
 }
 
 /* hero image and cover text*/
-
 .hero-image {
     width: 100%;
     height: 600px;
     position: relative;
-    background: url('../images/hero-image1.webp') no-repeat center center;
+    background: url('../images/hero-image.webp') no-repeat center center;
     background-size: cover;
     overflow: hidden;
 }
@@ -109,8 +106,7 @@ h2 {
     display: inline-block;
 }
 
-/* About Us */
-
+/* About Us- Wecome Section */
 .welcome-section {
     width: 100%;
     padding: 50px;
@@ -144,9 +140,8 @@ h2 {
 }
 
 /* Benefits of getting unplugged */
-
 #benefits {
-    background: url('../images/benefits-image1.webp');
+    background: url('../images/benefits-image.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -185,7 +180,6 @@ div i {
 }
 
 /* About getting Unplugged */
-
 .heading {
     width: 100%;
     display: flex;
@@ -292,7 +286,6 @@ div i {
 }
 
 /* footer */
-
 footer {
     background-color: #9cb884;
     height: auto;
@@ -315,13 +308,12 @@ footer {
     color: black;
 }
 
-/* Unplug Guide with steps */
-
+/* Unplug Guide Image with cover text */
 .guide-image {
     width: 100%;
     height: 600px;
     position: relative;
-    background: url('../images/guide-image1.webp') no-repeat center center;
+    background: url('../images/guide-image.webp') no-repeat center center;
     background-size: cover;
     overflow: hidden;
 }
@@ -348,7 +340,6 @@ footer {
     text-transform: uppercase;
     border: 1px solid darkblue;
     background-color: rgba(241, 109, 107, 0.8);
-    /* border: 2px solid white; */
     letter-spacing: 1.5px;
     padding: 6px 14px;
     display: inline-block;
@@ -365,8 +356,7 @@ footer {
     font-size: 30px;
 }
 
-/* Guide to unplug */
-
+/* Guide to Unplug Steps */
 .card-container {
     display: flex;
     justify-content: center;
@@ -411,11 +401,10 @@ footer {
     letter-spacing: .5px;
 }
 
-/* Form */
-
+/* Contact Us Form */
 .contact-section {
     clear: left;
-    background: url("../images/contact-image1.webp");
+    background: url("../images/contact-image.webp");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -473,7 +462,6 @@ footer {
 }
 
 /* 404 Page Not Found Error Message */
-
 .error-msg {
     display: flex;
     justify-content: center;
@@ -512,9 +500,7 @@ footer {
 }
 
 /* Media queries */
-
 /* For small screen-sizes from 425px and down */
-
 @media screen and (max-width:425px) and (min-width:320px) {
 
     #logo {
@@ -565,7 +551,6 @@ footer {
 }
 
 /* For Tablets, Ipads and mobile devices from 768px and down */
-
 @media screen and (max-width: 768px) {
 
     .welcome-section p {
@@ -615,7 +600,6 @@ footer {
 }
 
 /*  For medium screen-sizes from 950px wide and down */
-
 @media only screen and (max-width: 950px) {
 
     #menu {
@@ -628,7 +612,6 @@ footer {
 }
 
 /* Media queries for larger to medium screens size from 1200px and down */
-
 @media screen and (max-width: 1200px) {
 
     .welcome-section p {
