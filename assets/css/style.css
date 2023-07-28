@@ -84,7 +84,7 @@ h2 {
 
 .cover-text {
     position: absolute;
-    top: 40%;
+    top: 39%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -328,7 +328,7 @@ footer {
 
 .cover-text1 {
     position: absolute;
-    top: 40%;
+    top: 38%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
