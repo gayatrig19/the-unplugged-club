@@ -463,6 +463,7 @@ footer {
 
 /* 404 Page Not Found Error Message */
 .error-container {
+    height: 100%;
     background-color: lightgoldenrodyellow;
     display: flex;
     flex-direction: column;
