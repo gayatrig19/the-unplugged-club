@@ -44,24 +44,70 @@ The website is built using HTML and CSS as a Milestone Project#1 for the Code In
 - Provide a simple and accessible way to join the club.
 ---
 ## Wireframes
+### **Large to Medium Screen Size**
 
-### **Home Page (Desktop/Mobile)**
- ![Home-wireframe](assets/images/readme/wireframes/home-page-wireframe.png)-[Home-wireframe](assets/images/readme/wireframes/home-page-small-screen-wireframe.png)
-     
-### **Unplug Here Page (Desktop/Mobile)**
- ![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-wireframe.png)
+#### **Home Page**
+![Home-wireframe](assets/images/readme/wireframes/home-page-wireframe.png)
 
- ![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-small-screen-wireframe.png)
+#### **Unplug Here Page**
+![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-wireframe.png)
 
-### **Contact Page (Desktop/Mobile)**
+#### **Contact Page**
 ![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-wireframe.png)
 
+#### **404Error Page**
+![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-wireframe%20.png)
+
+
+### **Large to Medium Screen Size**
+
+#### **Home Page**
+![Home-wireframe](assets/images/readme/wireframes/home-page-small-screen-wireframe.png)
+
+#### **Unplug Here Page**
+![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-small-screen-wireframe.png)
+
+#### **Contact Page**
 ![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-small-screen-wireframe.png)
 
-### **404 Error Page (Desktop/Mobile)**
-![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-wireframe.png)
+#### **404Error Page**
+![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-small-screen-wireframe%20.png)
 
-![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-small-screen-wireframe.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+     
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
 
 
 
