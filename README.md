@@ -174,7 +174,7 @@ This project is the static website focused on creating awareness about digital w
 ## Testing
 
 ### Responsiveness
-* The site is designed to be flexible, fluid and responsive on all screen sizes. Website has been checked for responsiveness through Chrome Development tools. In order to do this, the following steps have been taken:
+- The site is designed to be flexible, fluid and responsive on all screen sizes. Website has been checked for responsiveness through Chrome Development tools. In order to do this, the following steps have been taken:
   1. Open the browser
   2. Navigate to The UNPLUGGED CLUB website <https://gayatrig19.github.io/the-unplugged-club/>
   3. Right click anywhere on the page and got to "Inspect" to open Development Tools.
@@ -201,10 +201,13 @@ This project is the static website focused on creating awareness about digital w
      - alternative text as a function for screen readers or in events if the images don't load
      - structural elements- for users of assistive technology as well as visual and semantic meaning
      - language of the document for screen readers
+  
 - Accessibility Test result for each page is as follows:
-   [Home Page]()
+   1. [Home Page Result](assets/images/readme/home_accessibility.png)
+   2. [Unplug Here Page Result](assets/images/readme/unplug_accessibility.png)
+   3. [Contact Page Result](assets/images/readme/contact_accessibility.png)
 
-       
+         
    
 
 
