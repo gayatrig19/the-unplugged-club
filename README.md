@@ -27,7 +27,6 @@ The website is built using HTML and CSS as a Milestone Project#1 for the Code In
 ### All the users want to be able to access and view the website comfortably on mobile and tablet devices.
 
 ----
-
 ## Structure
 ### Home Page
 - Introduces the club community , the purpose and "why it matters" on the first screen.
@@ -42,37 +41,55 @@ The website is built using HTML and CSS as a Milestone Project#1 for the Code In
 ### Contact Page
 - Allows the user to join the club and get access to in-depth updates about community and content.
 - Provide a simple and accessible way to join the club.
----
+  
+----
+
+# Design
 ## Wireframes
 ### **Large to Medium Screen Size**
 
 #### **Home Page**
-![Home-wireframe](assets/images/readme/wireframes/home-page-wireframe.png)
+
+       ![Home-wireframe](assets/images/readme/wireframes/home-page-wireframe.png)
 
 #### **Unplug Here Page**
-![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-wireframe.png)
+
+     ![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-wireframe.png)
 
 #### **Contact Page**
-![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-wireframe.png)
+
+     ![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-wireframe.png)
 
 #### **404Error Page**
-![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-wireframe%20.png)
+
+     ![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-wireframe%20.png)
 
 
-### **Large to Medium Screen Size**
+### **Small Screen Size**
 
 #### **Home Page**
-![Home-wireframe](assets/images/readme/wireframes/home-page-small-screen-wireframe.png)
+
+     ![Home-wireframe](assets/images/readme/wireframes/home-page-small-screen-wireframe.png)
 
 #### **Unplug Here Page**
-![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-small-screen-wireframe.png)
+
+     ![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-small-screen-wireframe.png)
 
 #### **Contact Page**
-![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-small-screen-wireframe.png)
+
+     ![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-small-screen-wireframe.png)
 
 #### **404Error Page**
-![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-small-screen-wireframe%20.png)
 
+     ![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-small-screen-wireframe%20.png)
+
+## Typography
+
+-[Oswald](https://fonts.google.com/specimen/Oswald) was chosen for logo and headings as it can be combined easily with other fonts. It is attractive and amenable for the heading content on site. Because it is slightly elongated, it brings contrast to a typography combination. With website consideration it was best suited as it gives both modern and a serious touch to the content throughout on pages.
+
+-[Lato](https://fonts.google.com/specimen/Lato) was chosen for body text as it is light and easy to read.
+
+  
 
 
 
