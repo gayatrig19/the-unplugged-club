@@ -109,11 +109,24 @@ This project is the static website focused on creating awareness about digital w
 - The nav bar is shown on every page, with logo on the left and navigation menu on the right side of the screen for larger to medium screen sizes. The logo and navigation menu shifts to the center of the screen with decreasing screen size while maintaining the accessibility and consistency in website layout design. 
 - The nav bar includes: page logo, and three links: Home, Unplug Here and Contact. It allows the user to easily navigate through the page. The logo and links are always responsive regardless of the screen sizes making it easy to find.
 - The logo includes the link to make the design more interactive and easy for user to jump back to home page whenever one feels like.
+  
 ![navigation_bar](assets/images/readme/logo-nav.png)
 ### Home page image
-- This is a main image for the home page. It evokes feelings of enthusiasm, liveliness, and vitality capturing the essence of life in its most exhilarating form. The image includes a text overlay which indicates that the goal of the page is to improve digital wellbeing of the user and motivates user about getting away from screens once in a while to live life to fullest.
+- This is a main image for the home page. It evokes feelings of enthusiasm, liveliness, and vitality capturing the essence of life in it's most exhilarating form. The image includes a text overlay which indicates that the goal of the page is to improve digital wellbeing of the user and motivates user about getting away from screens once in a while to live life to fullest.
 - The aim of the image is to instantly let the user know the true colors of life lived outside of the digital and screen world. The overlay text on the image tells user what content to expect on the page.
+  
 ![home_page_image](assets/images/readme/main-img.png)
+### Welcome to the Unplugged Club- section within "home" page
+- This section has a brief explanation of the goal of the unplugged club website. It explains what the page is about and why getting unplugged matters. It includes a link to "contact" page.
+- It encourages the users to take steps towards living life beyond screens and improve the tech-life balance by taking one step at a time. The aim of the section is let user know they are not on their own in this journey. The link to "Contact" page is there to help user make their life better in the journey of digital detox.
+  
+![welcome_section](assets/images/readme/welcome.png)
+### Benefits- section within "home page"
+- This section includes the benefits of getting unplugged. It motivates user to live more productive life by taking smaller steps towards better tech-life balance. It includes advantages of taking break from screens and how it can help in a better mental and social wellbeing.
+- This section consist of image in blocks with overlay text. When user hovers over the each of the text blocks, a transition effect gives more feel to the design making it more interactive for the user. This effect is not experienced on smaller screens for the purpose of consistency and accessibility.  
+
+![benefits_section](assets/images/readme/benefits-img.png)
+
   
   
   
