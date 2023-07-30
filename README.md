@@ -151,6 +151,20 @@ This project is the static website focused on creating awareness about digital w
 - The hover effects on each of the boxes allows user to navigate through with amusement. When user hovers over each of the card boxes a transition of card takes place which makes it standout from rest of the card boxes.
     
 ![guide_steps_img](assets/images/readme/guide.png)
+### Contact Page
+- This page includes a contact form. Users can get to this page by clicking "Contact" link in Navigation bar from any other page or by clicking the "contact us" link provided in welcome section on home page.
+- The users will need to provide their: first name, last name and e-mail address before submitting a message. All fields are required.
+- Users can provide any details about their way of getting unplugged, ideas on how one can achieve it and activities that are relevant to the goal, if they would like to be mentioned on the website.
+- In the contact form, each input field when hover changes the border color to skyblue. The buttons when clicked gives a white background effect. This was included for more engaging user-experience.
+- The contact form on submission takes user to code institute's formdumb where user can see the details entered.
+  
+![contact_page](assets/images/readme/contact.png)
+### 404 ERROR PAGE NOT FOUND
+- This page will show to user if a wrong link for the page is entered.
+- The design for the page is simple stating the message and what can be the possible reason of the error.
+- The benefit of the page is that customer gets a clear instructions with the link to go back to home page. Here, user won't need to use the browser's back button and can navigate through website without leaving it.
+  
+![404_page](assets/images/readme/error404.png)
 
   
   
