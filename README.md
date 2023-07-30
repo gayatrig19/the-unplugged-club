@@ -100,6 +100,17 @@ This project is the static website focused on creating awareness about digital w
 - When the user hovers over the blocks on benefits section and guide section, a transition effect is experienced.
 - When the user engages with the input fields or hovers over, its border colour changes to sky blue to subtly highlight the item without compromising legibility.
 
+----
+
+# Features
+## Existing Features
+
+### Navigation bar
+- The nav bar is shown on every page, with logo on the left and navigation menu on the right side of the screen for larger to medium screen sizes. The logo and navigation menu shifts to the center of the screen with decreasing screen size while maintaining the accessibility and consistency in website layout design. 
+- The nav bar includes: page logo, and three links: Home, Unplug Here and Contact. It allows the user to easily navigate through the page. The logo and links are always responsive regardless of the screen sizes making it easy to find.
+- The logo includes the link to make the design more interactive and easy for user to jump back to home page whenever one feels like.
+
+
 
 
 
