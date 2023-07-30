@@ -138,7 +138,7 @@ This project is the static website focused on creating awareness about digital w
 
 ![footer](assets/images/readme/footer.png)
 ### Unplug Here Page
--This page includes the guide for getting unplugged. User can navigate to the page through clicking on the "Unplug Here" link in the navigation bar or through the link in the section on home page.
+- This page includes the guide for getting unplugged. User can navigate to the page through clicking on the "Unplug Here" link in the navigation bar or through the link in the section on home page.
 - This section consists of three card boxes. Each one of these takes user through the steps to taking time away from screens and social media once in a while in a simple way, so that users can focus on one step at a time. 
 - The main image used for this page has a overlay text that informs user the page includes guided steps and illustrates a message of taking this journey one step at a time. The image was included to give the user more lively experience and encourage user to take steps towards the journey of living life in a moment.
 - This image is universal for both desktop and mobile user.
@@ -174,8 +174,7 @@ This project is the static website focused on creating awareness about digital w
 ## Testing
 
 ### Responsiveness
-- The site is designed to be flexible, fluid and responsive on all screen sizes.
-- Website has been checked for responsiveness through Chrome Development tools. In order to do this, the following steps have been taken:
+* The site is designed to be flexible, fluid and responsive on all screen sizes. Website has been checked for responsiveness through Chrome Development tools. In order to do this, the following steps have been taken:
   1. Open the browser
   2. Navigate to The UNPLUGGED CLUB website <https://gayatrig19.github.io/the-unplugged-club/>
   3. Right click anywhere on the page and got to "Inspect" to open Development Tools.
@@ -185,13 +184,13 @@ This project is the static website focused on creating awareness about digital w
    - Expected Result: Each page is responsive and user friendly when viewing the website on small and large screens.The pages have no design or accessibility issue in any of the screen sizes form 320px and up.
    - Actual Result: After using media queries and flexbox to home page and unplug here page, website is responsive with no scroll bar showing, the content is accessible to user to read and the images are not appearing stretched. Website is user friendly on small to large screen sizes.
   
-  - The following devices are used to check responsivess:
-        - Iphone 12
-        - Samsung Galaxy S20 FE 5G
-        - One Plus Nord CE
-        - Apple Ipad Pro 12.9
-        - Microsoft Surface Pro
-        - Moto G5
+- The following devices are used to check responsivess:
+    - Iphone 12
+    - Samsung Galaxy S20 FE 5G
+     - One Plus Nord CE
+     - Apple Ipad Pro 12.9
+     - Microsoft Surface Pro
+     - Moto G5
    
 ### Accessibility
 
@@ -201,7 +200,10 @@ This project is the static website focused on creating awareness about digital w
      - aria- labels for users who use screen-readers
      - alternative text as a function for screen readers or in events if the images don't load
      - structural elements- for users of assistive technology as well as visual and semantic meaning
-     - language of document for c=screen readers
+     - language of the document for screen readers
+- Accessibility Test result for each page is as follows:
+   [Home Page]()
+
        
    
 
