@@ -48,18 +48,24 @@ The website is built using HTML and CSS as a Milestone Project#1 for the Code In
 ### **Home Page**
 ![Home-wireframe (full size)](assets/images/readme/wireframes/home-page-wireframe.png)
 
- [Home-wireframe (full size)](assets/images/readme/wireframes/home-page-small-screen-wireframe.png)
-
+-[Home-wireframe (full size)](assets/images/readme/wireframes/home-page-small-screen-wireframe.png)
 
 ### **Unplug Here Page**
 ![UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-wireframe.png)
 
-[UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-small-screen-wireframe.png)
-
+-[UnplugHere-wireframe (full-size)](assets/images/readme/wireframes/unplug-here-page-small-screen-wireframe.png)
 
 ### **Contact Page**
+![Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-wireframe.png)
+
+-[Contact-wireframe (full-size)](assets/images/readme/wireframes/contact-page-small-screen-wireframe.png)
 
 ### **404 Error Page**
+![404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-wireframe%20.png)
+
+-[404error-wireframe (full-size)](assets/images/readme/wireframes/404error-page-small-screen-wireframe%20.png)
+
+
 
 
 
