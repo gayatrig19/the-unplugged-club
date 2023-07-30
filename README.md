@@ -95,6 +95,15 @@ This project is the static website focused on creating awareness about digital w
 - Each block of section is designed with effects to give website a more refined and clean look.
 - The images are given effects for letting user get the feel of the website and relate to the content with some entertainment.
 
+####  Benefits section, Guide to unplug section and Contact form Hover effect
+- The  benefits section on home page, guide section on unplug here page and the contact form includes the hoover effect to make the experience more interactive.
+- When the user hovers over the blocks on benefits section and guide section, a transition effect is experienced.
+- When the user engages with the input fields or hovers over, its border colour changes to sky blue to subtly highlight the item without compromising legibility.
+
+
+
+
+
 
 
 
