@@ -79,9 +79,9 @@ This project is the static website focused on creating awareness about digital w
 
 ### Typography
 
--[Oswald](https://fonts.google.com/specimen/Oswald) was chosen for logo and headings as it can be combined easily with other fonts. It is attractive and amenable for the heading content on site. Because it is slightly elongated, it brings contrast to a typography combination. With website consideration it was best suited as it gives both modern and a serious touch to the content throughout on pages.
+- [Oswald](https://fonts.google.com/specimen/Oswald) was chosen for logo and headings as it can be combined easily with other fonts. It is attractive and amenable for the heading content on site. Because it is slightly elongated, it brings contrast to a typography combination. With website consideration it was best suited as it gives both modern and a serious touch to the content throughout on pages.
 
--[Lato](https://fonts.google.com/specimen/Lato) was chosen for body text as it is light and easy to read.
+- [Lato](https://fonts.google.com/specimen/Lato) was chosen for body text as it is light and easy to read.
 
 ### Images
 
@@ -194,8 +194,9 @@ This project is the static website focused on creating awareness about digital w
    
 ### Accessibility
 
-- Each page is checked with the help of WAVE Accessibility tool (<https://wave.webaim.org/>)
-- Each page passes accessibility test with no error for: 
+Each page is checked with the help of WAVE Accessibility tool (<https://wave.webaim.org/>)
+
+Each page passes accessibility test with no error for: 
      - contrast
      - aria- labels for users who use screen-readers
      - alternative text as a function for screen readers or in events if the images don't load
@@ -207,6 +208,24 @@ This project is the static website focused on creating awareness about digital w
    2. [Unplug Here Page Result](assets/images/readme/unplug_accessibility.png)
    3. [Contact Page Result](assets/images/readme/contact_accessibility.png)
 
+### Manual Testing
+Manual testing is performed to ensure website performs well on different browsers and devices.
+ - Browsers
+    - Chrome
+    - Safari
+    - Microsoft Edge
+    - Firefox
+        * Issue: The footer sticked to the content appearing a whitespace when viewed on Safari
+        * Fix: I have changed the height to auto for footer so that it fills up the space when viewed on different browsers. The fix has been successful.
+ - Devices
+     * Iphone 12
+     * Samsung Galaxy S20 FE 5G
+     * One Plus Nord CE 
+     * Apple Ipad Pro 12.9
+     *  Microsoft Surface Pro
+     *  Moto G5
+ The website was fully functional on all the devices and no issues were detected.
+     
          
    
 
