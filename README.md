@@ -5,9 +5,9 @@
 
 # Purpose
 This project is the static website focused on creating awareness about digital wellbeing and importance of getting away from screens once in a while. It aims at showing people that digital wellbeing can be achieved one step at a time. [The Unplugged Club](https://gayatrig19.github.io/the-unplugged-club/index.html) provides users with the guide and benefits of getting unplugged and what it is all about. 
--The core purpose here is to remind people that in the midst of constant notifications and distractions, it is essential to carve out moments of stillness, reflection, and genuine human interaction. It reflects on living life in a moment, reclaiming yourself and enjoying that "me time" without devices around. The website focuses on ideas of taking small steps towards spending time away from devices and screens and getting more mindful living life to fullest. The website uses clean, simple design with earthy colors and images that showcases the energies of living life beyond screens.
+- The core purpose here is to remind people that in the midst of constant notifications and distractions, it is essential to carve out moments of stillness, reflection, and genuine human interaction. It reflects on living life in a moment, reclaiming yourself and enjoying that "me time" without devices around. The website focuses on ideas of taking small steps towards spending time away from devices and screens and getting more mindful living life to fullest. The website uses clean, simple design with earthy colors and images that showcases the energies of living life beyond screens.
 
--The website is built using HTML and CSS as a Milestone Project#1 for the Code Institute's Full Stack Software Development Course.
+- The website is built using HTML and CSS as a Milestone Project#1 for the Code Institute's Full Stack Software Development Course.
 
 ------
 # UX Design
@@ -96,7 +96,7 @@ This project is the static website focused on creating awareness about digital w
 - The images are given effects for letting user get the feel of the website and relate to the content with some entertainment.
 
 ####  Benefits section, Guide to unplug section and Contact form Hover effect
-- The  benefits section on home page, guide section on unplug here page and the contact form includes the hoover effect to make the experience more interactive.
+- The  benefits section on home page, guide section on unplug here page and the contact form includes the hover effect to make the experience more interactive.
 - When the user hovers over the blocks on benefits section and guide section, a transition effect is experienced.
 - When the user engages with the input fields or hovers over, its border colour changes to sky blue to subtly highlight the item without compromising legibility.
 
@@ -138,6 +138,7 @@ This project is the static website focused on creating awareness about digital w
 
 ![footer](assets/images/readme/footer.png)
 ### Unplug Here Page
+-This page includes the guide for getting unplugged. User can navigate to the page through clicking on the "Unplug Here" link in the navigation bar or through the link in the section on home page.
 - This section consists of three card boxes. Each one of these takes user through the steps to taking time away from screens and social media once in a while in a simple way, so that users can focus on one step at a time. 
 - The main image used for this page has a overlay text that informs user the page includes guided steps and illustrates a message of taking this journey one step at a time. The image was included to give the user more lively experience and encourage user to take steps towards the journey of living life in a moment.
 - This image is universal for both desktop and mobile user.
@@ -156,7 +157,7 @@ This project is the static website focused on creating awareness about digital w
 - The users will need to provide their: first name, last name and e-mail address before submitting a message. All fields are required.
 - Users can provide any details about their way of getting unplugged, ideas on how one can achieve it and activities that are relevant to the goal, if they would like to be mentioned on the website.
 - In the contact form, each input field when hover changes the border color to skyblue. The buttons when clicked gives a white background effect. This was included for more engaging user-experience.
-- The contact form on submission takes user to code institute's formdumb where user can see the details entered.
+- The contact form on submission takes user to code institute's form dumb where user can see the details entered.
   
 ![contact_page](assets/images/readme/contact.png)
 ### 404 ERROR PAGE NOT FOUND
@@ -165,6 +166,45 @@ This project is the static website focused on creating awareness about digital w
 - The benefit of the page is that customer gets a clear instructions with the link to go back to home page. Here, user won't need to use the browser's back button and can navigate through website without leaving it.
   
 ![404_page](assets/images/readme/error404.png)
+
+### Features left to implement
+- Contact form processing: Currently , on submission of the Contact form, the data goes to the form dump, so the input is not being processed or stored. With the knowledge of SQL and Python, the input could be stored, processed and analysed and used to provide the user with a personalised user-experience.
+- Events Details: Currently, the website does not have any events page where user can find events taking place around for activities whilst on the journey. This can help user get more socialised offline with friends and families.
+
+## Testing
+
+### Responsiveness
+- The site is designed to be flexible, fluid and responsive on all screen sizes.
+- Website has been checked for responsiveness through Chrome Development tools. In order to do this, the following steps have been taken:
+  1. Open the browser
+  2. Navigate to The UNPLUGGED CLUB website <https://gayatrig19.github.io/the-unplugged-club/>
+  3. Right click anywhere on the page and got to "Inspect" to open Development Tools.
+  4. click on drop down menu: "Dimensions: Responsive" and choose "Responsive"
+  5. Drag the side of the screen and change screen size, making sure the website looks good from 320px and up. Here, make sure there is consistency in design of the website on every screen size from small(mobile devices) to larger(desktop) and no scorll bar is showing for layout of site.
+   
+   - Expected Result: Each page is responsive and user friendly when viewing the website on small and large screens.The pages have no design or accessibility issue in any of the screen sizes form 320px and up.
+   - Actual Result: After using media queries and flexbox to home page and unplug here page, website is responsive with no scroll bar showing, the content is accessible to user to read and the images are not appearing stretched. Website is user friendly on small to large screen sizes.
+  
+  - The following devices are used to check responsivess:
+        - Iphone 12
+        - Samsung Galaxy S20 FE 5G
+        - One Plus Nord CE
+        - Apple Ipad Pro 12.9
+        - Microsoft Surface Pro
+        - Moto G5
+   
+### Accessibility
+
+- Each page is checked with the help of WAVE Accessibility tool (<https://wave.webaim.org/>)
+- Each page passes accessibility test with no error for: 
+     - contrast
+     - aria- labels for users who use screen-readers
+     - alternative text as a function for screen readers or in events if the images don't load
+     - structural elements- for users of assistive technology as well as visual and semantic meaning
+     - language of document for c=screen readers
+       
+   
+
 
   
   
