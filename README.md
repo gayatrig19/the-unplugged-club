@@ -126,7 +126,17 @@ This project is the static website focused on creating awareness about digital w
 - This section consist of image in blocks with overlay text. When user hovers over the each of the text blocks, a transition effect gives more feel to the design making it more interactive for the user. This effect is not experienced on smaller screens for the purpose of consistency and accessibility.  
 
 ![benefits_section](assets/images/readme/benefits-img.png)
+### The Art of Unplugging- section within "home page"
+- This section explains briefly what is unplugging and why it matters. 
+- It allows the user to understand the main focus of the page and therefore what contents to be expected in the further sections. It also reminds user how the journey of unplugging can differ for everyone. It includes link to the "Unplug Here" page which takes user to the guide for taking steps towards digital wellbeing. The link to "Unplug Here" page is a start towards journey of digital detox making it easier for user to not get overwhelmed and taking one step at a time.
 
+![what_is_unplugging](assets/images/readme/unplugging.png)
+### Footer
+- Similar to the navigation bar, the footer shows exactly the same on every page in the website. It includes four links to connect with The Unplugged Club community through social media.
+- These links will open in new tabs, so that the user doesn't leave the website page too soon.
+- The consistent design provides better user experience. Joining the community on social media will not only encourage the user to stay connected but also allows to enter a community of like minded people.
+
+![footer](assets/images/readme/footer.png)
   
   
   
