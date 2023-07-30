@@ -109,6 +109,14 @@ This project is the static website focused on creating awareness about digital w
 - The nav bar is shown on every page, with logo on the left and navigation menu on the right side of the screen for larger to medium screen sizes. The logo and navigation menu shifts to the center of the screen with decreasing screen size while maintaining the accessibility and consistency in website layout design. 
 - The nav bar includes: page logo, and three links: Home, Unplug Here and Contact. It allows the user to easily navigate through the page. The logo and links are always responsive regardless of the screen sizes making it easy to find.
 - The logo includes the link to make the design more interactive and easy for user to jump back to home page whenever one feels like.
+![navigation_bar](assets/images/readme/logo-nav.png)
+### Home page image
+- This is a main image for the home page. It evokes feelings of enthusiasm, liveliness, and vitality capturing the essence of life in its most exhilarating form. The image includes a text overlay which indicates that the goal of the page is to improve digital wellbeing of the user and motivates user about getting away from screens once in a while to live life to fullest.
+- The aim of the image is to instantly let the user know the true colors of life lived outside of the digital and screen world. The overlay text on the image tells user what content to expect on the page.
+![home_page_image](assets/images/readme/main-img.png)
+  
+  
+  
 
 
 
