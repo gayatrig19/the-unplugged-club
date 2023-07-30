@@ -137,6 +137,21 @@ This project is the static website focused on creating awareness about digital w
 - The consistent design provides better user experience. Joining the community on social media will not only encourage the user to stay connected but also allows to enter a community of like minded people.
 
 ![footer](assets/images/readme/footer.png)
+### Unplug Here Page
+- This section consists of three card boxes. Each one of these takes user through the steps to taking time away from screens and social media once in a while in a simple way, so that users can focus on one step at a time. 
+- The main image used for this page has a overlay text that informs user the page includes guided steps and illustrates a message of taking this journey one step at a time. The image was included to give the user more lively experience and encourage user to take steps towards the journey of living life in a moment.
+- This image is universal for both desktop and mobile user.
+  
+![unplug_here_page_img](assets/images/readme/guide-img.png)
+- The three card boxes with images on top and content followed is designed to convey the steps to the user in descriptive way. This will give user a idea of how the guide can be followed in their own way without getting overwhelmed.
+- Each of the boxes includes a general step with explanation on how the goal can be achieved with steady pace.
+- The guide steps are kept user-friendly so that it doesn't discourage them towards starting the journey. It is achieved by including each step with the end goal of taking one step at a time.
+- The value of each content with image is that the user will see that they don't need to invest financially to start the journey towards getting unplugged. It also tells user the activities they can do whilst on this journey and that they don't need to completely get off the grid rather the digital wellbeing can be achieved taking a certain period of time away and indulging in a more productive and mindful life.
+- The steps are included as such if the user is confused on where to start from, they don't need to search over the internet but they can continue doing what makes them happy when away from screens.
+- The hover effects on each of the boxes allows user to navigate through with amusement. When user hovers over each of the card boxes a transition of card takes place which makes it standout from rest of the card boxes.
+    
+![guide_steps_img](assets/images/readme/guide.png)
+
   
   
   
