@@ -99,7 +99,7 @@ This project is the static website focused on creating awareness about digital w
 ####  Benefits section, Guide to unplug section and Contact form Hover effect
 - The  benefits section on home page, guide section on unplug here page and the contact form includes the hover effect to make the experience more interactive.
 - When the user hovers over the blocks on benefits section and guide section, a transition effect is experienced.
-- When the user engages with the input fields or hovers over, its border colour changes to sky blue to subtly highlight the item without compromising legibility.
+- When the user engages with the input fields or hovers over on the contact form, it's border colour changes to sky blue to subtly highlight the item without compromising legibility.
 
 ----
 
@@ -108,8 +108,8 @@ This project is the static website focused on creating awareness about digital w
 
 ### Navigation bar
 - The nav bar is shown on every page, with logo on the left and navigation menu on the right side of the screen for larger to medium screen sizes. The logo and navigation menu shifts to the center of the screen with decreasing screen size while maintaining the accessibility and consistency in website layout design. 
-- The nav bar includes: page logo, and three links: Home, Unplug Here and Contact. It allows the user to easily navigate through the page. The logo and links are always responsive regardless of the screen sizes making it easy to find.
-- The logo includes the link to make the design more interactive and easy for user to jump back to home page whenever one feels like.
+- The nav bar includes: page logo, and three links: Home, Unplug Here and Contact. It allows the user to easily navigate through the page. The logo and links are always responsive regardless of the screen sizes making it easy to find the content.
+- The logo includes a link to make the design more interactive and easy for user to jump back to home page whenever one feels like.
   
 ![navigation_bar](assets/images/readme/logo-nav.png)
 ### Home page image
@@ -119,17 +119,18 @@ This project is the static website focused on creating awareness about digital w
 ![home_page_image](assets/images/readme/main-img.png)
 ### Welcome to the Unplugged Club- section within "home" page
 - This section has a brief explanation of the goal of the unplugged club website. It explains what the page is about and why getting unplugged matters. It includes a link to "contact" page.
-- It encourages the users to take steps towards living life beyond screens and improve the tech-life balance by taking one step at a time. The aim of the section is let user know they are not on their own in this journey. The link to "Contact" page is there to help user make their life better in the journey of digital detox.
+- It encourages the users to take steps towards living life beyond screens and improve the tech-life balance by taking one step at a time. The aim of this section is to let users know they are not on their own in this journey. The link to "Contact" page is there to help user make their life better in the journey of digital detox.
   
 ![welcome_section](assets/images/readme/welcome.png)
 ### Benefits- section within "home page"
 - This section includes the benefits of getting unplugged. It motivates user to live more productive life by taking smaller steps towards better tech-life balance. It includes advantages of taking break from screens and how it can help in a better mental and social wellbeing.
-- This section consist of image in blocks with overlay text. When user hovers over the each of the text blocks, a transition effect gives more feel to the design making it more interactive for the user. This effect is not experienced on smaller screens for the purpose of consistency and accessibility.  
+- This section consist of image in blocks with overlay text. When user hovers over each of the text blocks, a transition effect gives more feel to the design making it more interactive for the user. This effect is not experienced on smaller screens for the purpose of consistency and accessibility.  
 
 ![benefits_section](assets/images/readme/benefits-img.png)
 ### The Art of Unplugging- section within "home page"
 - This section explains briefly what is unplugging and why it matters. 
 - It allows the user to understand the main focus of the page and therefore what contents to be expected in the further sections. It also reminds user how the journey of unplugging can differ for everyone. It includes link to the "Unplug Here" page which takes user to the guide for taking steps towards digital wellbeing. The link to "Unplug Here" page is a start towards journey of digital detox making it easier for user to not get overwhelmed and taking one step at a time.
+- When user hovers over the image on this section, it grows and later shrinks. This effect was included for a more better user-experience.
 
 ![what_is_unplugging](assets/images/readme/unplugging.png)
 ### Footer
