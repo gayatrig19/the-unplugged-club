@@ -251,7 +251,6 @@ Manual testing is performed to ensure website performs well on different browser
      
 - Links within the narrative
       * Internal Links are checked to make sure they take user to correct page. All links work as expected.
-  
       * External Links when clicked on are checked to make sure they open in new tab and takes user to correct page. All links work as expected.     
 
     | LINK(location)                                  | DESTINATION PAGE       | PAGE OPENS IN NEW TAB|
@@ -269,7 +268,13 @@ Manual testing is performed to ensure website performs well on different browser
     | Youtube icon               | https://www.youtube.com     | yes- as expected
     | Instagram icon             | https://www.instagram.com   | yes- as expected
    
-  
+### Validator Testing
+- HTML Validation
+  * No errors were found when passing through the official W3C Validator
+   ![HTML_validator](assets/images/readme/html-validation.png)
+- CSS Validation
+  * No errors were found when passing through the official Jigsaw W3 Validator
+   ![CSS_validator](assets/images/readme/css-validation.png)
 
 
 
