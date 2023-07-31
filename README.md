@@ -304,7 +304,7 @@ Code has been pushed to repository on Github with following git commands:
 
 1. Navigate to the GitHub Repository 'gayatrig19/the-unplugged-club'
 2. Click 'Code' drop down menu - a green button shown right above the file list.
-3. Copy the URL of the repository using 'HTTPS', 'SSH'or Github CLI.
+3. Copy the URL of the repository using 'HTTPS', 'SSH'or 'Github CLI'.
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type 'git clone', and then paste the URL copied earlier.
@@ -315,17 +315,17 @@ Code has been pushed to repository on Github with following git commands:
 ## Forking
 
 1. Navigate to the GitHub Repository 'gayatrig19/the-unplugged-club'
-2. Click 'Fork' located towards top right corner.
+2. Click 'Fork' located towards top right corner on GitHub page.
 3. Select 'owner' for the forked repository from the dropdown menu under 'owner'.
 4. It will create forked repo under the same name as original by default. But you can type a name in 'Repository name' or add a description in 'Description' box.
 5. Click on 'Create fork'. A forked repo is created.
 
-- Forking allows you to make any changes without affecting original project. You can send the suggestions by submitting a pull request. Then the Project Owner can review the pull request before acepting the suggestions and merging them. 
+- Forking allows you to make any changes without affecting original project. You can send the suggestions by submitting a pull request. Then the Project Owner can review the pull request before accepting the suggestions and merging them. 
 - When you have fork to a repository, you don't have access to files locally on your device, for getting access you will need to clone the forked repository.
 
 
 ## Deployment
-- The website was deployed to Github Pages.
+- The website was deployed to Github Pages using following steps:
 1. Go to GitHub repository.
 2. Click on 'Settings'.
 3. Click on 'Pages'(tab on the left sidebar).
@@ -345,7 +345,7 @@ Code has been pushed to repository on Github with following git commands:
 - Git to provide the version control to commit and push code to the repository.
 - [Google Fonts](https://fonts.google.com/) for typography.
 - [FontAwesome](https://fontawesome.com/) v5.15.4 for icons.
-- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) for inspecting,debugging pages and testing layouts.
+- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) for inspecting, debugging pages and testing layouts.
 - [Pixelied](https://pixelied.com/) to convert .jpg images into .webp to reduce storage and enhance the website performance.
 - [Pexels](https://www.pexels.com/) - used to source the images for the website.
 - [TinyJPG](https://tinyjpg.com/) to optimise images for website.
@@ -353,7 +353,7 @@ Code has been pushed to repository on Github with following git commands:
 - [Balsamiq](https://balsamiq.com/) to design the wireframes for the website.
 - [Color Palettes](https://colorpalettes.net/) to source colour palette for the website.
 - [Am I Responsive](http://amiresponsive.blogspot.com/) to create the Mockup image in this README.
-- Google Chrome's[Lighthouse](https://developers.google.com/web/tools/lighthouse/) to test accessibility for desktop and mobile devices.
+- Google Chrome's [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to test accessibility for desktop and mobile devices.
 - [WAVE](https://wave.webaim.org/) evaluation tool to test the website for accessibility to individuals with disabilities.
 - [W3C HTML Markup Validator](https://validator.w3.org/) to validate the HTML Code.
 - [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/) to validate the CSS Code.
@@ -375,6 +375,8 @@ Code has been pushed to repository on Github with following git commands:
 - The favicon.ico image for the website is created by me.
 - Love Running readme file is used as reference to create one for this project.
 - https://github.com/oks-erm/sofing/ - readme file
+- A code snippet for responsive image and text aside block was obtained from W3School.
+- <https://github.com/AsiaWi/hygge_life/> - readme file
 
 ## Acknowledgements
 
