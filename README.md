@@ -276,10 +276,32 @@ Manual testing is performed to ensure website performs well on different browser
   * No errors were found when passing through the official Jigsaw W3 Validator
    ![CSS_validator](assets/images/readme/css-validation.png)
 
+### Fixed Bugs
+- In initial testing, footer design was not responsive when viewed on Safari. The footer appeared sticky with content creating a whitespace underneath. It was fixed by setting height to auto. The fix was a success and the website works as expected on browsers and devices.
+
 ### Unfixed Bugs
 - No bugs where detected while final testing of the website on browsers and devices(small, medium and large screen sizes). All the bugs were fixed in the initial testing of the website. All pages are fully functional and responsive to the browers and devices. The consistency in design is maintained throughout.
-- In initial testing, footer design was not responsive when viewed on Safari. The footer appeared sticky with content creating a whitespace underneath. It was fixed by setting height to auto. The fix was a success and the website is now functional as expected.
 
+
+## Version Control
+The website was developed through Codeanywhere IDE.
+
+Code has been pushed to repository on Github with following git commands:
+- git add . -to add files ready to commit
+- git commit -m "message" - to commit the code to loacl repository ready to be pushed
+- git push - final command used to push committed code to remote repo on Github
+
+## CLONING THE REPOSITORY
+
+1. Navigate to the GitHub Repository 'gayatrig19/the-unplugged-club'
+2. Click 'Code' drop down menu - a green button shown right above the file list.
+3. Copy the URL of the repository using 'HTTPS', 'SSH'or Github CLI.
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type 'git clone', and then paste the URL copied earlier.
+7. Press enter to create local clone. A clone of the repository will now be created.
+
+- For more details on how to clone the repository in order to create a copy for own use refer to the site: <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>
 
 
 
