@@ -251,6 +251,7 @@ Manual testing is performed to ensure website performs well on different browser
      
 - Links within the narrative
       * Internal Links are checked to make sure they take user to correct page. All links work as expected.
+  
       * External Links when clicked on are checked to make sure they open in new tab and takes user to correct page. All links work as expected.     
 
     | LINK(location)                                  | DESTINATION PAGE       | PAGE OPENS IN NEW TAB|
@@ -258,10 +259,17 @@ Manual testing is performed to ensure website performs well on different browser
     |Contact (home page/welcome section)              |  contact.html          | no- as expected
     |Unplug Here(home page/art of unplugging section) |  unplug.html           | no- as expected
 
-  
-  
-  
+- Footer Links
+     * All social media links are checked from each page. All links works as expected, take user to correct page and opens in new tab.
 
+    | SOCIAL MEDIA LINKS/ICONS   | DESTINATION PAGE            | PAGE OPENS IN NEW TAB|
+    |--------------------------- |-----------------------------|----------------------|
+    | Facebook icon              | https://www.facebook.com    | yes- as expected
+    | Twitter icon               | https://www.twitter.com     | yes- as expected
+    | Youtube icon               | https://www.youtube.com     | yes- as expected
+    | Instagram icon             | https://www.instagram.com   | yes- as expected
+   
+  
 
 
 
