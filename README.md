@@ -173,6 +173,7 @@ This project is the static website focused on creating awareness about digital w
 - Contact form processing: Currently , on submission of the Contact form, the data goes to the form dump, so the input is not being processed or stored. With the knowledge of SQL and Python, the input could be stored, processed and analysed and used to provide the user with a personalised user-experience.
 - Events Details: Currently, the website does not have any events page where user can find events taking place around for activities whilst on the journey. This can help user get more socialised offline with friends and families.
 
+----
 ## Testing
 
 ### Responsiveness
@@ -180,13 +181,13 @@ This project is the static website focused on creating awareness about digital w
   1. Open the browser
   2. Navigate to The UNPLUGGED CLUB website <https://gayatrig19.github.io/the-unplugged-club/>
   3. Right click anywhere on the page and got to "Inspect" to open Development Tools.
-  4. click on drop down menu: "Dimensions: Responsive" and choose "Responsive"
-  5. Drag the side of the screen and change screen size, making sure the website looks good from 320px and up. Here, make sure there is consistency in design of the website on every screen size from small(mobile devices) to larger(desktop) and no scorll bar is showing for layout of site.
+  4. Click on drop down menu: "Dimensions: Responsive" and choose "Responsive"
+  5. Drag the side of the screen and change screen size, making sure the website looks good from 320px and up. Here, ensure there is consistency in design of the website on every screen size from small(mobile devices) to larger(desktop devices) and no scorll bar is showing for layout of site.
    
-   - Expected Result: Each page is responsive and user friendly when viewing the website on small and large screens.The pages have no design or accessibility issue in any of the screen sizes form 320px and up.
-   - Actual Result: After using media queries and flexbox to home page and unplug here page, website is responsive with no scroll bar showing, the content is accessible to user to read and the images are not appearing stretched. Website is user friendly on small to large screen sizes.
+- Expected Result: Each page is responsive and user friendly when viewing the website on small and large screens.The pages have no design or accessibility issue in any of the screen sizes from 320px and up.
+ - Actual Result: After using media queries and flexbox to home page and unplug here page, website is responsive with no scroll bar showing, the content is accessible to user to read and the images are not appearing stretched. Website is user friendly on small to large screen sizes.
   
-- The following devices are used to check responsivess:
+- The following devices are used to check responsiveness:
     - Iphone 12
     - Samsung Galaxy S20 FE 5G
      - One Plus Nord CE
