@@ -178,10 +178,10 @@ This project is the static website focused on creating awareness about digital w
 
 ### Responsiveness
 - The site is designed to be flexible, fluid and responsive on all screen sizes. Website has been checked for responsiveness through Chrome Development tools. In order to do this, the following steps have been taken:
-  1. Open the browser
+  1. Open the browser.
   2. Navigate to The UNPLUGGED CLUB website <https://gayatrig19.github.io/the-unplugged-club/>
   3. Right click anywhere on the page and got to "Inspect" to open Development Tools.
-  4. Click on drop down menu: "Dimensions: Responsive" and choose "Responsive"
+  4. Click on drop down menu: "Dimensions: Responsive" and choose "Responsive".
   5. Drag the side of the screen and change screen size, making sure the website looks good from 320px and up. Here, ensure there is consistency in design of the website on every screen size from small(mobile devices) to larger(desktop devices) and no scorll bar is showing for layout of site.
    
 - Expected Result: Each page is responsive and user friendly when viewing the website on small and large screens.The pages have no design or accessibility issue in any of the screen sizes from 320px and up.
@@ -201,10 +201,10 @@ This project is the static website focused on creating awareness about digital w
 
 - Each page passes accessibility test with no error for: 
      - contrast
-     - aria- labels for users who use screen-readers
-     - alternative text as a function for screen readers or in events if the images doesn't load
-     - structural elements: for users of assistive technology as well as visual and semantic meaning
-     - language of the document for screen readers
+     - aria- labels for users who use screen-readers.
+     - alternative text as a function for screen readers or in events if the images doesn't load.
+     - structural elements: for users of assistive technology as well as visual and semantic meaning.
+     - language of the document for screen readers.
   
 - Accessibility Test result for each page is as follows:
    1. [Home Page Result](assets/images/readme/home_accessibility.png)
@@ -255,9 +255,9 @@ Manual testing is performed to ensure website performs well on different browser
   |Unplug Here    | unplug.html     |
   |Contact        | contact.html    |
      
-- Links within the narrative
-      * Internal Links are checked to make sure they take user to correct page. All links work as expected.
-      * External Links when clicked on are checked to make sure they open in new tab and takes user to correct page. All links work as expected.     
+- Links within the narrative:
+* Internal Links are checked to make sure they take user to correct page. All links work as expected.
+* External Links when clicked on are checked to make sure they open in new tab and takes user to correct page. All links work as expected.     
 
     | LINK(location)                                  | DESTINATION PAGE       | PAGE OPENS IN NEW TAB|
     |-------------------------------------------------|------------------------|---------------------|
@@ -265,7 +265,8 @@ Manual testing is performed to ensure website performs well on different browser
     |Unplug Here(home page/art of unplugging section) |  unplug.html           | no- as expected
 
 - Footer Links
-     * All social media links are checked from each page. All links works as expected, take user to correct page and opens in new tab.
+     * All social media links are checked from each page. All links works as expected taking user to correct page and opens in new tab.
+  
 
     | SOCIAL MEDIA LINKS/ICONS   | DESTINATION PAGE            | PAGE OPENS IN NEW TAB|
     |--------------------------- |-----------------------------|----------------------|
@@ -277,9 +278,11 @@ Manual testing is performed to ensure website performs well on different browser
 ### Validator Testing
 - HTML Validation
   * No errors were found when passing through the official W3C Validator
+  
    ![HTML_validator](assets/images/readme/html-validation.png)
 - CSS Validation
   * No errors were found when passing through the official Jigsaw W3 Validator
+  
    ![CSS_validator](assets/images/readme/css-validation.png)
 
 ### Fixed Bugs
