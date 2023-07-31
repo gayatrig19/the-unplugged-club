@@ -287,7 +287,7 @@ Manual testing is performed to ensure website performs well on different browser
 The website was developed through Codeanywhere IDE.
 
 Code has been pushed to repository on Github with following git commands:
-- git add . -to add files ready to commit
+- git add . - to add files ready to commit
 - git commit -m "message" - to commit the code to loacl repository ready to be pushed
 - git push - final command used to push committed code to remote repo on Github
 
@@ -303,14 +303,29 @@ Code has been pushed to repository on Github with following git commands:
 
 - For more details on how to clone the repository in order to create a copy for own use refer to the site: <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>
 
+## FORKING
+
+1. Navigate to the GitHub Repository 'gayatrig19/the-unplugged-club'
+2. Click 'Fork' located towards top right corner.
+3. Select 'owner' for the forked repository from the dropdown menu under 'owner'.
+4. It will create forked repo under the same name as original by default. But you can type a name in 'Repository name' or add a description in 'Description' box.
+5. Click on 'Create fork'. A forked repo is created.
+
+- Forking allows you to make any changes without affecting original project. You can send the suggestions by submitting a pull request. Then the Project Owner can review the pull request before acepting the suggestions and merging them. 
+- When you have fork to a repository, you don't have access to files locally on your device, for getting access you will need to clone the forked repository.
 
 
-
-
-
-
-
-  
+## DEPLOYMENT
+- The website was deployed to Github Pages.
+1. Go to GitHub repository.
+2. Click on 'Settings'.
+3. Click on 'Pages'(tab on the left sidebar).
+4. Scroll to 'Build and deployment'/'Source' section.
+5. Find the sub-section 'Branch'.
+6. From the drop-down menu 'none'/'select branch' and choose source 'main' (or 'master').
+7. Click 'Save'
+8. Wait until you can see a link for deployed page within GitHub Page section. This can take a while. Once the page updates you will see a message:
+      Your site is live at <https://gayatrig19.github.io/the-unplugged-club/>  
 
 
 
