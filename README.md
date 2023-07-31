@@ -232,17 +232,17 @@ Manual testing is performed to ensure website performs well on different browser
 ### Lighthouse
 - HOME PAGE(desktop/mobile)
   
-  ![home_page_desktop](assets/images/readme/home-page-lighthouse.png)
+  ![home_page_desktop](assets/images/readme/home-page-desktop-lighthouse.png)
   ![home_page_mobile](assets/images/readme/homepage-mobile-lighthouse.png)
 
 - UNPLUG HERE PAGE(desktop/mobile)
   
-  ![unplug_here_page_desktop](assets/images/readme/unplug-here-page-lighthouse.png)
+  ![unplug_here_page_desktop](assets/images/readme/unplughere-desktop-lighthouse.png)
   ![unplug_here_page_mobile](assets/images/readme/unplugpage-mobile-lighthouse.png)
 
 - CONTACT PAGE(desktop/mobile)
   
-  ![contact_page_desktop](assets/images/readme/contact-page-lighthouse.png)
+  ![contact_page_desktop](assets/images/readme/contact-page-desktop-lighthouse.png)
   ![contact_page_mobile](assets/images/readme/contactpage-mobile-lighthouse.png)
 
  ### Functional Testing
