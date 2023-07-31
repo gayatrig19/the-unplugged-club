@@ -197,16 +197,16 @@ This project is the static website focused on creating awareness about digital w
    
 ### Accessibility
 
-* Each page is checked with the help of WAVE Accessibility tool (<https://wave.webaim.org/>)
+- Each page is checked with the help of WAVE Accessibility tool (<https://wave.webaim.org/>)
 
-* Each page passes accessibility test with no error for: 
-- contrast
- - aria- labels for users who use screen-readers
- - alternative text as a function for screen readers or in events if the images doesn't load
- - structural elements- for users of assistive technology as well as visual and semantic meaning
- - language of the document for screen readers
+- Each page passes accessibility test with no error for: 
+     - contrast
+     - aria- labels for users who use screen-readers
+     - alternative text as a function for screen readers or in events if the images doesn't load
+      - structural elements- for users of assistive technology as well as visual and semantic meaning
+      - language of the document for screen readers
   
-* Accessibility Test result for each page is as follows:
+- Accessibility Test result for each page is as follows:
    1. [Home Page Result](assets/images/readme/home_accessibility.png)
    2. [Unplug Here Page Result](assets/images/readme/unplug_accessibility.png)
    3. [Contact Page Result](assets/images/readme/contact_accessibility.png)
