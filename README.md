@@ -327,6 +327,28 @@ Code has been pushed to repository on Github with following git commands:
 8. Wait until you can see a link for deployed page within GitHub Page section. This can take a while. Once the page updates you will see a message:
       Your site is live at <https://gayatrig19.github.io/the-unplugged-club/>  
 
+# Technologies
+- HTML - used to create the main structure of the website.
+- CSS - used to style the website.
+- [Codeanywhere](https://app.codeanywhere.com/) IDE to develop the website.
+- [GitHub](https://github.com/) to host the source code and GitHub Pages to deploy and host the live site.
+- Git to provide the version control to commit and push code to the repository.
+- [Google Fonts](https://fonts.google.com/) for typography.
+- [FontAwesome](https://fontawesome.com/) v5.15.4 for icons.
+- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) for inspecting,debugging pages and testing layouts.
+- [Pixelied](https://pixelied.com/) to convert .jpg images into .webp to reduce storage and enhance the website performance.
+- [Pexels](https://www.pexels.com/) - used to source the images for the website.
+- [TinyJPG](https://tinyjpg.com/) to optimise images for website.
+- [Favicon.io](https://favicon.io/) to create the website favicon.
+- [Balsamiq](https://balsamiq.com/) to design the wireframes for the website.
+- [Color Palettes](https://colorpalettes.net/) to source colour palette for the website.
+- [Am I Responsive](http://amiresponsive.blogspot.com/) to create the Mockup image in this README.
+- Google Chrome's[Lighthouse](https://developers.google.com/web/tools/lighthouse/) to test accessibility for desktop and mobile devices.
+- [WAVE](https://wave.webaim.org/) evaluation tool to test the website for accessibility to individuals with disabilities.
+- [W3C HTML Markup Validator](https://validator.w3.org/) to validate the HTML Code.
+- [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/) to validate the CSS Code.
+- Code Institute's Codeanywhere Template to generate the workspace for the project.
+
 
 
 
