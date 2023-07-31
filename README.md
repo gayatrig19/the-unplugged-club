@@ -291,7 +291,7 @@ Code has been pushed to repository on Github with following git commands:
 - git commit -m "message" - to commit the code to loacl repository ready to be pushed
 - git push - final command used to push committed code to remote repo on Github
 
-## CLONING THE REPOSITORY
+## Cloning the Repository
 
 1. Navigate to the GitHub Repository 'gayatrig19/the-unplugged-club'
 2. Click 'Code' drop down menu - a green button shown right above the file list.
@@ -303,7 +303,7 @@ Code has been pushed to repository on Github with following git commands:
 
 - For more details on how to clone the repository in order to create a copy for own use refer to the site: <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>
 
-## FORKING
+## Forking
 
 1. Navigate to the GitHub Repository 'gayatrig19/the-unplugged-club'
 2. Click 'Fork' located towards top right corner.
@@ -315,7 +315,7 @@ Code has been pushed to repository on Github with following git commands:
 - When you have fork to a repository, you don't have access to files locally on your device, for getting access you will need to clone the forked repository.
 
 
-## DEPLOYMENT
+## Deployment
 - The website was deployed to Github Pages.
 1. Go to GitHub repository.
 2. Click on 'Settings'.
@@ -326,6 +326,7 @@ Code has been pushed to repository on Github with following git commands:
 7. Click 'Save'
 8. Wait until you can see a link for deployed page within GitHub Page section. This can take a while. Once the page updates you will see a message:
       Your site is live at <https://gayatrig19.github.io/the-unplugged-club/>  
+
 
 # Technologies
 - HTML - used to create the main structure of the website.
@@ -349,7 +350,28 @@ Code has been pushed to repository on Github with following git commands:
 - [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/) to validate the CSS Code.
 - Code Institute's Codeanywhere Template to generate the workspace for the project.
 
+# Credits
+- pexels.com - used to source all the images included in the website.
+- Google Fonts - for fonts to use in website.
+- FontAwesome for all the icons used in the website.
+- W3Schools.com - used throughout the website for general help.
+- [CSS-Tricks](https://css-tricks.com/) - used to understand the implementation and utilisation of Flexbox.
+- Understanding of shadows and hover effects was obtained from [W3Schools](https://www.w3schools.com/)
+- Common conventions for HTML attributes and syntax was obtained from [W3Schools](https://www.w3schools.com/) and MDN Web Docs.
+- Google
+- Youtube
+- A code snippet for benefits section was referred from the Love Running Project.
+- Love Running Project - for general help.
+- A code snippet for responsive image cards was referred from W3Schools.
+- The favicon.ico image for the website is created by me.
+- Love Running readme file is used as reference to create one for this project.
+- https://github.com/oks-erm/sofing/ - readme file
 
+## Acknowledgements
+
+- I would like to thank my mentor, Ronan McClelland, for his guidance, moral support, encouragement and crucial suggestions during the project. 
+- I would like to thank my husband Siddharth Dighe for guidance and moral support and for reviewing my work actively, getting involved  in the discussions for website ideas and designs.
+- Thank you Slack Community for answering all my questions and doubts.
 
 
 
