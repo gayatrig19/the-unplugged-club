@@ -276,6 +276,11 @@ Manual testing is performed to ensure website performs well on different browser
   * No errors were found when passing through the official Jigsaw W3 Validator
    ![CSS_validator](assets/images/readme/css-validation.png)
 
+### Unfixed Bugs
+- No bugs where detected while final testing of the website on browsers and devices(small, medium and large screen sizes). All the bugs were fixed in the initial testing of the website. All pages are fully functional and responsive to the browers and devices. The consistency in design is maintained throughout.
+- In initial testing, footer design was not responsive when viewed on Safari. The footer appeared sticky with content creating a whitespace underneath. It was fixed by setting height to auto. The fix was a success and the website is now functional as expected.
+
+
 
 
 
