@@ -256,8 +256,8 @@ Manual testing is performed to ensure website performs well on different browser
   |Contact        | contact.html    |
      
 - Links within the narrative:
-* Internal Links are checked to make sure they take user to correct page. All links work as expected.
-* External Links when clicked on are checked to make sure they open in new tab and takes user to correct page. All links work as expected.     
+  1. Internal Links are checked to make sure they take user to correct page. All links work as expected.
+  2. External Links when clicked on are checked to make sure they open in new tab and takes user to correct page. All links work as expected.     
 
     | LINK(location)                                  | DESTINATION PAGE       | PAGE OPENS IN NEW TAB|
     |-------------------------------------------------|------------------------|---------------------|
