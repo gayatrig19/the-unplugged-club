@@ -381,7 +381,7 @@ Code has been pushed to repository on Github with following git commands:
 ## Acknowledgements
 
 - I would like to thank my mentor, Ronan McClelland, for his guidance, moral support, encouragement and crucial suggestions during the project. 
-- I would like to thank my husband Siddharth Dighe for his guidance and moral support and for reviewing my work actively, getting involved  in the discussions for website ideas and designs.
+- I would like to thank my husband, Siddharth Dighe, for his support and for reviewing my work actively, getting involved  in the discussions for website ideas and designs.
 - Thank you Slack Community for answering all my questions and doubts.
 
 
