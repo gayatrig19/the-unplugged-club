@@ -41,7 +41,8 @@ This project is the static website focused on creating awareness about digital w
 ### Contact Page
 - Allows the user to join the club and get access to in-depth updates about community and content.
 - Provide a simple and accessible way to join the club.
-  
+- If the user accidentally enters wrong URL for the page within website, he/she is presented with a page which includes a 404 error message and a link that can allow user to navigate back to the site without leaving it.
+
 ----
 
 ## Design
@@ -370,7 +371,7 @@ Code has been pushed to repository on Github with following git commands:
 ## Acknowledgements
 
 - I would like to thank my mentor, Ronan McClelland, for his guidance, moral support, encouragement and crucial suggestions during the project. 
-- I would like to thank my husband Siddharth Dighe for guidance and moral support and for reviewing my work actively, getting involved  in the discussions for website ideas and designs.
+- I would like to thank my husband Siddharth Dighe for his guidance and moral support and for reviewing my work actively, getting involved  in the discussions for website ideas and designs.
 - Thank you Slack Community for answering all my questions and doubts.
 
 
