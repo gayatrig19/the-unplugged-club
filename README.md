@@ -340,6 +340,7 @@ Code has been pushed to repository on Github with following git commands:
 # Technologies
 - HTML - used to create the main structure of the website.
 - CSS - used to style the website.
+- Codeanywhere built-in formatter to format structure for HTML and CSS files in the project.
 - [Codeanywhere](https://app.codeanywhere.com/) IDE to develop the website.
 - [GitHub](https://github.com/) to host the source code and GitHub Pages to deploy and host the live site.
 - Git to provide the version control to commit and push code to the repository.
