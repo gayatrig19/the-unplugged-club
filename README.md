@@ -238,6 +238,16 @@ Manual testing is performed to ensure website performs well on different browser
 - CONTACT PAGE(desktop/mobile)
   ![contact_page_desktop](assets/images/readme/contact-page-lighthouse.png)
   ![contact_page_mobile](assets/images/readme/contactpage-mobile-lighthouse.png)
+
+ ### Functional Testing
+ - Navigation Bar Links
+     * All links are checked from each page to make sure they take user to correct page. All links works as expected.
+  
+  |NAVIGATION LINK| DESTINATION PAGE|
+  |---------------|-----------------|
+  |Home           | index.html      |
+  |Unplug Here    | unplug.html     |
+  |Contact        | contact.html    |
      
          
    
