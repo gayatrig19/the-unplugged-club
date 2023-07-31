@@ -203,8 +203,8 @@ This project is the static website focused on creating awareness about digital w
      - contrast
      - aria- labels for users who use screen-readers
      - alternative text as a function for screen readers or in events if the images doesn't load
-      - structural elements- for users of assistive technology as well as visual and semantic meaning
-      - language of the document for screen readers
+     - structural elements: for users of assistive technology as well as visual and semantic meaning
+     - language of the document for screen readers
   
 - Accessibility Test result for each page is as follows:
    1. [Home Page Result](assets/images/readme/home_accessibility.png)
@@ -218,7 +218,7 @@ Manual testing is performed to ensure website performs well on different browser
     - Safari
     - Microsoft Edge
     - Firefox
-        * Issue: The footer sticked to the content appearing a whitespace when viewed on Safari
+        * Issue: The footer sticked to the content appearing a whitespace when viewed on Safari.
         * Fix: I have changed the height to auto for footer so that it fills up the space when viewed on different browsers. The fix has been successful.
  - Devices
      * Iphone 12
@@ -231,14 +231,17 @@ Manual testing is performed to ensure website performs well on different browser
 
 ### Lighthouse
 - HOME PAGE(desktop/mobile)
+  
   ![home_page_desktop](assets/images/readme/home-page-lighthouse.png)
   ![home_page_mobile](assets/images/readme/homepage-mobile-lighthouse.png)
 
 - UNPLUG HERE PAGE(desktop/mobile)
+  
   ![unplug_here_page_desktop](assets/images/readme/unplug-here-page-lighthouse.png)
   ![unplug_here_page_mobile](assets/images/readme/unplugpage-mobile-lighthouse.png)
 
 - CONTACT PAGE(desktop/mobile)
+  
   ![contact_page_desktop](assets/images/readme/contact-page-lighthouse.png)
   ![contact_page_mobile](assets/images/readme/contactpage-mobile-lighthouse.png)
 
